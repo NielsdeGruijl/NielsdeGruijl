@@ -28,3 +28,9 @@ Development for this project has continued since the game jam and there are plan
 
 Another project I still have plans for is ![MonkeEngine](https://github.com/NielsdeGruijl/MonkeEngine) which is a 2D physics engine developed using C++.
 This project features a robust component system and "rigid body" physics objects. The most recent addition added "Sweep and Prune" optimization to the collision detection system.
+
+
+## Contact
+Interested in what I do? Feel free to contact me!
+![LinkedIn](https://www.linkedin.com/in/niels-de-gruijl-0aa214201/)
+![niels07@outlook.com](mailto:niels07@outlook.com)
