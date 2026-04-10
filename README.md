@@ -3,7 +3,7 @@ I am a programmer who enjoys developing gameplay features and systems.
 I love participating in Gamejams and find great accomplishment from whatching others play and enjoy games I have worked on.
 
 ## Tools
-<img align="left" width="15%" src="Images/Unreal_logo_white.png">
+<img align="left" width="20%" src="Images/Unreal_logo_white.png">
 <img align="left" width="15%" src="Images/Unity_logo_white.png">
 <img align="left" width="20%" src="Images/Rider_logo.png">
 <img align="left" width="20%" src="Images/Visual Studio Icon.png">
