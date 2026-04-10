@@ -18,7 +18,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 <img align="left" width="6%" src="Images/Csharp_logo.png">
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
