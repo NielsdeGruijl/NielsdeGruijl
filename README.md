@@ -3,11 +3,11 @@ I am a programmer who enjoys developing gameplay features and systems.
 I love participating in Gamejams and find great accomplishment from whatching others play and enjoy games I have worked on.
 
 ## Tools
-<img width="40%" src="Images/Unreal_logo.png">
-<img width="40%" src="Images/Unity_logo.png">
-<img width="40%" src="Images/Rider_logo.png">
-<img width="40%" src="Images/Visual Studio Icon.png">
-<img width="40%" src="Images/Github_logo.png">
+<img align="left" width="20%" src="Images/Unreal_logo.png">
+<img align="left" width="20%" src="Images/Unity_logo.png">
+<img align="left" width="20%" src="Images/Rider_logo.png">
+<img align="left" width="20%" src="Images/Visual Studio Icon.png">
+<img align="left" width="20%" src="Images/Github_logo.png">
 
 ## Current projects
 The most recent project I worked on is a game called ![Masked Survivors](https://github.com/NielsdeGruijl/Masked-Survivors), which is a Vampire Survivors-like game that I created for the Global GameJam 2026.
