@@ -9,7 +9,14 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 <img align="left" width="5%" src="Images/VisualStudio_logo.png">
 <img align="left" width="5%" src="Images/Github_logo_white.png">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
+
+## Languages
+<img align="left" width="5%" src="Images/C#_logo.png">
+<img align="left" width="5%" src="Images/C++_logo.png">
+
+<br/><br/><br/><br/><br/><br/>
+
 
 
 ## Current projects
