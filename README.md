@@ -14,8 +14,9 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 <br/><br/><br/>
 
 **Languages** <br/>
-<img align="left" width="6%" src="Images/Csharp_logo.png">
 <img align="left" width="6%" src="Images/Cpp_logo.png">
+<img align="left" width="6%" src="Images/Csharp_logo.png">
+
 
 <br/><br/><br/><br/>
 
