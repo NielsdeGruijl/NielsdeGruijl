@@ -10,6 +10,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 <img align="left" width="20%" src="Images/Github_logo.png">
 
 <br/><br/>
+<br/><br/>
 
 ## Current projects
 The most recent project I worked on is a game called ![Masked Survivors](https://github.com/NielsdeGruijl/Masked-Survivors), which is a Vampire Survivors-like game that I created for the Global GameJam 2026.
