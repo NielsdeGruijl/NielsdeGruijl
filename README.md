@@ -13,7 +13,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 
 ## Languages
 <img align="left" width="6%" src="Images/Csharp_logo.png">
-<img align="left" width="5%" src="Images/Cpp_logo.png">
+<img align="left" width="6%" src="Images/Cpp_logo.png">
 
 <br/><br/><br/><br/><br/><br/>
 
