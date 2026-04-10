@@ -4,7 +4,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 
 ## Skills
 
-**Tools**<br/>
+**Tools**<br/><br/>
 <img align="left" width="6%" src="Images/Unity_logo_white.png">
 <img align="left" width="7%" src="Images/Unreal_logo_white.png">
 <img align="left" width="6%" src="Images/Rider_logo.png">
@@ -13,7 +13,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 
 <br/><br/><br/>
 
-**Languages** <br/>
+**Languages** <br/><br/>
 <img align="left" width="6%" src="Images/Cpp_logo.png">
 <img align="left" width="6%" src="Images/Csharp_logo.png">
 
