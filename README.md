@@ -5,7 +5,7 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 ## Skills
 
 **Tools**<br/>
-<img align="left" width="8%" src="Images/Unreal_logo_white.png">
+<img align="left" width="7%" src="Images/Unreal_logo_white.png">
 <img align="left" width="6%" src="Images/Unity_logo_white.png">
 <img align="left" width="6%" src="Images/Rider_logo.png">
 <img align="left" width="6%" src="Images/VisualStudio_logo.png">
