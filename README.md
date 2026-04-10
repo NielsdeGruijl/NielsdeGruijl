@@ -5,8 +5,8 @@ I love participating in Gamejams and find great accomplishment from whatching ot
 ## Tools
 <img align="left" width="6%" src="Images/Unreal_logo_white.png">
 <img align="left" width="5%" src="Images/Unity_logo_white.png">
-<img align="left" width="8%" src="Images/Rider_logo.png">
-<img align="left" width="8%" src="Images/Visual Studio Icon.png">
+<img align="left" width="5%" src="Images/Rider_logo.png">
+<img align="left" width="5%" src="Images/VisualStudio_logo.png">
 <img align="left" width="5%" src="Images/Github_logo_white.png">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
