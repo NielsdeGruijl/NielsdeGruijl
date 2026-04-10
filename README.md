@@ -33,4 +33,4 @@ This project features a robust component system and "rigid body" physics objects
 ## Contact
 Interested in what I do? Feel free to contact me! <br/>
 [LinkedIn](https://www.linkedin.com/in/niels-de-gruijl-0aa214201/) <br/>
-[niels07@outlook.com]("mailto:niels07@outlook.com) <br/>
+[niels07@outlook.com](mailto:niels07@outlook.com) <br/>
