@@ -27,7 +27,8 @@ I love participating in Gamejams and find great accomplishment from watching oth
 
 ## Showreel
 
-<video src="https://github.com/user-attachments/assets/85d7443e-5b84-4865-80d0-fff9b4f91deb"></video>
+https://github.com/user-attachments/assets/53d3f0e4-0214-4c69-85c0-b29d10dda67a
+
 
 
 ## Current projects
