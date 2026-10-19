@@ -1,7 +1,3 @@
-
-
-
-
 # Niels de Gruijl
 I am a programmer who enjoys developing gameplay features and systems.
 I love participating in Gamejams and find great accomplishment from watching others play and enjoy games I have worked on.
@@ -27,7 +23,7 @@ I love participating in Gamejams and find great accomplishment from watching oth
 
 ## Showreel
 
-<video src="https://github.com/user-attachments/assets/53d3f0e4-0214-4c69-85c0-b29d10dda67a"></video>
+<video src="https://github.com/user-attachments/assets/af31c5ac-dfca-41a0-b66e-f19e537b0fea"></video>
 
 
 
